@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.3
+
+### Patch Changes
+
+- 🐞🩹 select validates correctly with modular forms (by [@thejackshelton](https://github.com/thejackshelton) in [#814](https://github.com/qwikifiers/qwik-ui/pull/814))
+
 ## 0.4.2
 
 ### Patch Changes
